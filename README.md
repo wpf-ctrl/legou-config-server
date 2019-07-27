@@ -1,0 +1,1 @@
+# legou-config-server
